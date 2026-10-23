@@ -11,7 +11,7 @@ One place where employees see which meeting rooms are free, claim one for a time
 ## Actors
 
 - Employee: signs in, searches for free rooms, books, changes and cancels their own bookings, and sees the room schedule.
-- Office admin: keeps the room directory (rooms, capacity, equipment) up to date. *assumed*
+- Office admin: keeps the room directory (rooms, capacity, equipment) up to date.
 
 ## Features
 
@@ -28,3 +28,4 @@ See [Product-wide](product-wide.md).
 ## Out of Scope
 
 - Integration with an external calendar or booking system; the product is standalone.
+
